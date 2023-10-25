@@ -2,7 +2,7 @@
 
 <h2>Heyoo</h2>
 
-* 👋 Hey ya'll my name is binvo and i'm a first year compsci student in UNSW
+* 👋 Hey ya'll my name is binvo and i'm a ~first year~ third year compsci student in UNSW
 * 👀 I usually play Rocket league and Valorant but yea coding is just a side passion :D
 * 📫 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/kevinesutandi/) or [**Discord**](https://discord.com/users/673512295137017857) (Binvo#2003)
 
