@@ -13,7 +13,7 @@ export default function FooterBar() {
       />
       <FooterButton
         ariaLabel='Source Code on GitHub'
-        href='https://github.com/KevinSutandi/mobile-landing'
+        href='https://github.com/KevinSutandi/mobile-portfolio'
         text='Source Code on GitHub'
       />
     </div>
