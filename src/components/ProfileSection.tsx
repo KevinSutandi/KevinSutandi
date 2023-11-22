@@ -5,24 +5,23 @@ import ProfileIconSection from './ProfileSection/ProfileIconSection';
 
 export default function ProfileSection() {
   return (
-    <div className='flex flex-col p-5 items-center gap-1 justify-center relative top-14 bg-gradient-to-b from-transparent to-white to-[20%] dark:to-slate-900'>
-      <ProfileHeader />
-      <DescriptionComponent />
-      <ProfileIconSection />
-      <div className='w-auto mt-5 z-10 justify-center text-center flex flex-col gap-7 md:w-[450px]'>
-        <ProfileCard
-          href={'https://www.kevinsutandi.com'}
-          text={'Photography Website'}
-        />
-        <ProfileCard
-          href={'https://www.github.com/kevinsutandi'}
-          text={'GitHub Profile (Coding Portfolio)'}
-        />
-        <ProfileCard
-          href={'https://www.instagram.com/38social.au/'}
-          text={'38Social Instagram!!!'}
-        />
+    <>
+      <div className='flex flex-col z-20 p-5 items-center gap-1 justify-center relative top-14'>
+        <ProfileHeader />
+        <DescriptionComponent />
+        <ProfileIconSection />
+        <div className='w-auto mt-5 justify-center overflow-auto text-center z-10 flex flex-col gap-7 md:w-[450px]'>
+          <ProfileCard href={'https://www.kevinsutandi.com'}>
+            Photography Portfolio
+          </ProfileCard>
+          <ProfileCard href={'https://www.github.com/kevinsutandi'}>
+            Github Profile (Coding Projects)
+          </ProfileCard>
+          <ProfileCard href={'https://www.instagram.com/38social.au/'}>
+            Grow your business with <span className='font-bold'>38Social</span>
+          </ProfileCard>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
