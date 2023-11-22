@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme }}>
-      <main className='h-screen bg-white overflow-hidden dark:bg-slate-900'>
+      <main className='h-screen min-h-[650px] flex flex-col align-bottom justify-between bg-white overflow-hidden dark:bg-slate-900 '>
         <CoverImage />
         <ProfileSection />
         <FooterBar />

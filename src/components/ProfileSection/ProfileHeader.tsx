@@ -10,7 +10,10 @@ export default function ProfileHeader() {
         alt='Header Image'
       />
       <h1 className='text-2xl font-medium text-black md:text-4xl dark:text-gray-200 transistion-all duration-300'>
-        Hiya, I&apos;m <span className='text-blue-500 font-bold'>Kevin</span>
+        Hiya, I&apos;m{' '}
+        <span className='text-blue-500 font-bold dark:text-blue-400 transition-all duration-300'>
+          Kevin
+        </span>
       </h1>
     </>
   );

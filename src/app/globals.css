@@ -17,6 +17,15 @@
   }
 }
 
+/* make min height 650 before it becomes scrollable */
+
+@media (max-height: 650px) {
+  main {
+    min-height: initial; /* Remove the min-height for smaller screens */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(

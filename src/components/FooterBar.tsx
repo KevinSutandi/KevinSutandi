@@ -5,7 +5,7 @@ import FooterButton from './FooterBarComponents.tsx/FooterButton';
 export default function FooterBar() {
   const { theme, toggleTheme } = useContext(ThemeContext);
   return (
-    <div className='absolute bottom-0 flex flex-row gap-5 items-center justify-center w-full h-20 bg-white dark:bg-slate-900'>
+    <div className=' p-5 mb-5  flex flex-row gap-5 items-center justify-center w-full h-20 bg-white dark:bg-slate-900'>
       <FooterButton
         ariaLabel='Switch Theme'
         onPress={toggleTheme}

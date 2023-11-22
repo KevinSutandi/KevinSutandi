@@ -15,7 +15,7 @@ export default function FooterButton({
 }: FooterButtonProps) {
   return (
     <a
-      className='text-slate-900 cursor-pointer dark:text-white rounded-lg p-3 py-2 bg-gray-200 dark:bg-slate-700 hover:opacity-50 transition-all duration-300'
+      className=' text-xs md:text-base text-slate-900 shadow-gray-300 dark:shadow-slate-800 cursor-pointer dark:text-white rounded-lg p-3 shadow-md bg-gray-200 dark:bg-slate-700 hover:opacity-50 transition-all duration-300'
       aria-label={ariaLabel}
       onClick={onPress}
       href={href}
