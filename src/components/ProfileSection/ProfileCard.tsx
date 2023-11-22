@@ -12,7 +12,7 @@ export default function ProfileCard({ href, text }: ProfileCardProps) {
       target='_blank'
       rel='noreferrer'
       type='button'
-      className='text-black p-5 px-10 w-auto shadow-md shadow-gray-300 rounded-lg bg-gray-200 dark:bg-slate-700 dark:text-white dark:shadow-slate-800 hover:bg-gray-300 dark:hover:bg-slate-800 transition-all duration-300 md:w-100'
+      className='profile-card text-black p-5 px-10 w-auto shadow-md shadow-gray-300 rounded-lg bg-gray-200 dark:bg-slate-700 dark:text-white dark:shadow-slate-800 transition-all duration-300 md:w-100'
     >
       {text}
     </a>

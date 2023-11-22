@@ -21,7 +21,7 @@ const SocialMediaLink = ({
     aria-label={label}
     className='w-6 h-6 mx-3'
   >
-    <div className='flex align-middle justify-center hover:opacity-50 transition-all ease-in-300'>
+    <div className='social-link flex align-middle justify-center transition-all ease-in-300'>
       <Icon icon={icon} color={color} width='24' height='24' />
     </div>
   </a>

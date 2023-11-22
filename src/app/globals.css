@@ -17,12 +17,25 @@
   }
 }
 
-/* make min height 650 before it becomes scrollable */
-
 @media (max-height: 650px) {
   main {
     min-height: initial; /* Remove the min-height for smaller screens */
     overflow-y: auto; /* Enable vertical scrolling */
+  }
+}
+
+/* Only make a tags and buttons hover when it can */
+@media (hover: hover) {
+  .footer-button:hover .social-link:hover {
+    opacity: 0.5;
+  }
+
+  .profile-card:hover {
+    background-color: rgb(209 213 219);
+  }
+
+  .profile-card:dark:hover {
+    background-color: rgb(30 41 59);
   }
 }
 
