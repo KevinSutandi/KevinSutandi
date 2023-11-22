@@ -6,6 +6,7 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --transition-duration: 300ms; /* Set the transition duration */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,4 +25,8 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+
+  /* Apply the transition to all properties */
+  transition: color var(--transition-duration),
+    background var(--transition-duration);
 }
