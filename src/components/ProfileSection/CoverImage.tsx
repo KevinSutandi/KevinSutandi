@@ -9,6 +9,7 @@ const HeaderBar: React.FC = () => {
         className='object-cover h-[200px] dark:opacity-50 transistion-all duration-300'
         src={Cover}
         alt='Header Image'
+        placeholder='blur'
       />
     </div>
   );
