@@ -26,7 +26,8 @@
 
 /* Only make a tags and buttons hover when it can */
 @media (hover: hover) {
-  .footer-button:hover .social-link:hover {
+  .footer-button:hover,
+  .social-link:hover {
     opacity: 0.5;
   }
 
