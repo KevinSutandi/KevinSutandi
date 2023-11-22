@@ -18,6 +18,10 @@ export default function ProfileSection() {
           href={'https://www.github.com/kevinsutandi'}
           text={'GitHub Profile (Coding Portfolio)'}
         />
+        <ProfileCard
+          href={'https://www.instagram.com/38social.au/'}
+          text={'38Social Instagram!!!'}
+        />
       </div>
     </div>
   );
