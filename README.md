@@ -2,19 +2,9 @@
 
 <h2>Heyoo</h2>
 
-* 👋 Hey ya'll my name is binvo and i'm a ~first year~ third year compsci student in UNSW
-* 👀 I usually play Rocket league and Valorant but yea coding is just a side passion :D
-* 📫 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/kevinesutandi/) or [**Discord**](https://discord.com/users/673512295137017857) (Binvo#2003)
-
-***I also stream on twitch so feel free to check me out : [Twitch](https://twitch.tv/binvog)***
-
-<h2>Other SocMed Links:</h2>
-
-[Instagram](https://instagram.com/kevinesutandi)
-
-[Youtube (Drumming)](https://www.youtube.com/channel/UCFmTKy7Mvvfp_b1vvsQGCiQ)
-
-[Youtube (Video Editing)](https://www.youtube.com/channel/UCnKOMY051wurNGUb6CmFTiQ)
+* 👋 Hey ya'll my name is Kevin and i'm a ~first year~ third year compsci student in UNSW
+* 👀 Learned a lot since my first year in computer science but currently the topic I'm most interested in is Frontend Dev. 
+* 📫 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/kevinesutandi/) or [**Other Profiles**](https://kevinsutandi.github.io/mobile-portfolio)
 
 <!---
 KevinSutandi/KevinSutandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
