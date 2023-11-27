@@ -21,12 +21,6 @@ const ProfileIconSection = () => {
         color={iconColor}
       />
       <SocialMediaLink
-        href='https://wa.me/61412123138'
-        icon='ic:baseline-whatsapp'
-        label='WhatsApp Link'
-        color={iconColor}
-      />
-      <SocialMediaLink
         href='mailto:kevinesutandi@gmail.com'
         icon='material-symbols:mail-outline'
         label='Email Link'

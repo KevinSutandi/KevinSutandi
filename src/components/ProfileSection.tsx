@@ -10,15 +10,18 @@ export default function ProfileSection() {
         <ProfileHeader />
         <DescriptionComponent />
         <ProfileIconSection />
-        <div className='w-auto mt-5 justify-center overflow-auto text-center z-10 flex flex-col gap-7 md:w-[450px]'>
+        <div className='w-auto pb-3 mt-5 justify-center overflow-auto text-center z-10 flex flex-col gap-7 md:w-[450px]'>
+          <ProfileCard href={'https://wa.me/+61412123138'}>
+            Book Your Photo & Video Journey Now!
+          </ProfileCard>
+          <ProfileCard href={'https://www.instagram.com/38social.au/'}>
+            Grow your business with <span className='font-bold'>38Social</span>
+          </ProfileCard>
           <ProfileCard href={'https://www.kevinsutandi.com'}>
             Photography Portfolio
           </ProfileCard>
           <ProfileCard href={'https://www.github.com/kevinsutandi'}>
             Github Profile (Coding Projects)
-          </ProfileCard>
-          <ProfileCard href={'https://www.instagram.com/38social.au/'}>
-            Grow your business with <span className='font-bold'>38Social</span>
           </ProfileCard>
         </div>
       </div>
