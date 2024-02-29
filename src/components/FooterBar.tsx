@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useContext } from 'react';
 import { ThemeContext } from '@/utils/themeContext';
 import FooterButton from './FooterBarComponents.tsx/FooterButton';
