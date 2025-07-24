@@ -1,6 +1,6 @@
 <h2>Heyoo</h2>
 
-- 👋 Hey ya'll my name is Kevin and i'm a recent UNSW Computer Science Graduate
+- 👋 Hey ya'll my name is **Kevin** and i'm a recent UNSW Computer Science Graduate
 - Currently Growing [**Gloom Studio**](https://gloom.studio), a website design and development agency
 - 📫 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/kevinesutandi/) or [**Other Profiles**](https://mobileportfolio.kevinsutandi.com)
 
